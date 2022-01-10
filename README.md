@@ -5,3 +5,8 @@ canvas相关的总结
 
 ```
 ### canvas的库fabric.js
+
+```
+http://fabricjs.com/
+
+```
